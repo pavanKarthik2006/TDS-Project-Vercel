@@ -16,9 +16,4 @@ A Retrieval-Augmented Generation (RAG) based Virtual Teaching Assistant for IITM
 ### Discourse Scraper ✅ (for bonus eligibility)
 - `discourse_downloader_full.py`: Downloads Discourse posts in a date range from the TDS course forum using the API.
 
-## 🔧 How to Run Locally
 
-1. Clone the repo:
-```bash
-git clone https://github.com/aditya-iitm-vit/tds-virtual-ta.git
-cd tds-virtual-ta
